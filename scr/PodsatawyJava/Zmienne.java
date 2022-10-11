@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 // zmienna - zarezerwowane miejsce w pamięci z określonym typem danych
 
 public class Zmienne {

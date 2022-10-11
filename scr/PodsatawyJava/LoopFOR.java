@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 public class LoopFOR {
     public static void main(String[] args) {
         //int=0 - wartość początkowa, dowolna

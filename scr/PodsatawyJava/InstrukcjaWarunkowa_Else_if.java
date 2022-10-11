@@ -1,4 +1,4 @@
-// jest podobna do if else, ale pozwala sprawdzać kilka warunków
+package PodsatawyJava;// jest podobna do if else, ale pozwala sprawdzać kilka warunków
 
 public class InstrukcjaWarunkowa_Else_if {
     public static void main(String[] args) {

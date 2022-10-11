@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 // dwie liczby a i b.
 // liczba, przez którą będziemy dzielić nie może być =0
 // więc jeżlie dzielnik jest różny od zera to możemy operację wykonać

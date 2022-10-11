@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 // pobieranie danych od użytkownika
 
 import java.util.Scanner;

@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 public class TablicaInt {
     public static void main(String[] args) {
         //utworzenie tablicy

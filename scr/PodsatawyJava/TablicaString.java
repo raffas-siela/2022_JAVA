@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 // struktury pozwalajace gromadzić większą ilosc danych
 
 public class TablicaString {

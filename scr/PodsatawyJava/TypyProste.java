@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 public class TypyProste {
 
     //liczby stałoprzecinkowe

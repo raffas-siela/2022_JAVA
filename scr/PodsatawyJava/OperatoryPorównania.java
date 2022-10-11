@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 public class OperatoryPorównania {
     public static void main(String[] args) {
         int firstNumber = 4;

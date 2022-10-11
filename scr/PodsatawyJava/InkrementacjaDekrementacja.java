@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 // inrementacja - zwiększenie wartości o 1
 // dekrementacja - zmniejszenie wartości o 1
 

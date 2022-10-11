@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 public class OperatoryLogiczne {
     public static void main(String[] args) {
 

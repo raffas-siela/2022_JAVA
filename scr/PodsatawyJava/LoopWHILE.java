@@ -1,4 +1,4 @@
-// pętla while + warunek + {kod}
+package PodsatawyJava;// pętla while + warunek + {kod}
 // petla while wykonuje się do momentu, kiedy wartośc logiczna warunku jest true
 
 

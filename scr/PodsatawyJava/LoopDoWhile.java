@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 //najpierw kod się wykonuje,
 //a następnie przechodzi do pętli
 //konsekwencja jest taka, że 1 raz zawsze się wykona

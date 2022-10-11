@@ -1,3 +1,5 @@
+package PodsatawyJava;
+
 import java.util.Scanner;
 
 public class OperatoryLogiczneUzycie {

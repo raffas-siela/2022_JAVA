@@ -1,4 +1,4 @@
-
+package PodsatawyJava;
 //przechowują aktualnawartość oraz umowżliwiają wykonanie akcji (wywoałanie metod) na tych danych
 
 public class TypyObiektowe {
