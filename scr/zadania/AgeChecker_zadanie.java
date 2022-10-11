@@ -1,4 +1,4 @@
-
+package zadania;
 //poproś użytkownika o rok urodzenia
 //jesli jest pełnoletni zaproś na zakupy alkocholu
 //jeśłi nie jest pełniletni podziękuj zazakupy
@@ -13,10 +13,12 @@ public class AgeChecker_zadanie {
         int age = 2022 - year;
         System.out.println("Masz lat: " + age);
 
-        if (age>=18) {
+        if (age>=18 && age<100) {
             System.out.println("Zapraszamy na zakupy ! ! !   ;-) ");
-        } else {
+        } else if (age<18 && age >0){
             System.out.println("Jesteś niepełnoletni, spadaj !!!!! :-( ");
+        } else {
+            System.out.println("podaj poprawną wartośc");
         }
     }
 }

@@ -1,3 +1,5 @@
+package zadania;
+
 import java.util.Scanner;
 
 // poproś użytkownika o podanie 2 liczb
