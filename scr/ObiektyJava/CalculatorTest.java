@@ -15,10 +15,16 @@ public class CalculatorTest {
 
         Calculator calculator = new Calculator();
 
-        calculator.addition(firstNumber,secondNumber);
-        calculator.subtration(firstNumber,secondNumber);
-        calculator.multiplication(firstNumber,secondNumber);
-        calculator.division(firstNumber,secondNumber);
-        calculator.modulo(firstNumber,secondNumber);
+        int add = calculator.addition(firstNumber,secondNumber);
+        int sub = calculator.subtration(firstNumber,secondNumber);
+        int mul = calculator.multiplication(firstNumber,secondNumber);
+        int div = calculator.division(firstNumber,secondNumber);
+        int mod = calculator.modulo(firstNumber,secondNumber);
+
+        System.out.println("dodawanie: " + add);
+        System.out.println("odejmowanie: " + sub);
+        System.out.println("mnożenie: " + mul);
+        System.out.println("dzielenie: " + div);
+        System.out.println("modulo: " + mod);
     }
 }
