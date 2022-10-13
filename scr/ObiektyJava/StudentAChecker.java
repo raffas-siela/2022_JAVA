@@ -6,30 +6,34 @@ package ObiektyJava;
 //przejdź przez studentów w tablicy
 //wywołaj wszytkie 4 metody
 
-public class StudentChecker {
+public class StudentAChecker {
     public static void main(String[] args) {
-        Student student1 = new Student();
+
+        String uczelnia = StudentA.nazwaUczelni;
+
+        StudentA student1 = new StudentA();
         student1.imie = "Tom";
         student1.nazwisko = "Cat";
         student1.nick = "TomCat";
         student1.email = "tomacat@do.com";
         student1.nrIndeksu = 0000001;
+        String uczelniaStudent1 = student1.nazwaUczelni;
 
-        Student student2 = new Student();
+        StudentA student2 = new StudentA();
         student2.imie = "Hot";
         student2.nazwisko = "Dog";
         student2.nick = "HotDog";
         student2.email = "hotgog@do.com";
         student2.nrIndeksu = 0000002;
 
-        Student student3 = new Student();
+        StudentA student3 = new StudentA();
         student3.imie = "Tony";
         student3.nazwisko = "Halik";
         student3.nick = "TonyHalik";
         student3.email = "tonyhalik@do.com";
         student3.nrIndeksu = 0000003;
 
-        Student[] studenci = new Student[3];
+        StudentA[] studenci = new StudentA[3];
 
         studenci[0] = student1;
         studenci[1] = student2;

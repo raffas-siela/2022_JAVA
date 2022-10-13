@@ -1,11 +1,12 @@
 package ObiektyJava;
 
-public class Student {
+public class StudentA {
     public String imie;
     public String nazwisko;
     public String nick;
     public String email;
     public int nrIndeksu;
+    public static String nazwaUczelni = "AGH";
 
     public void przedstawSie() {
         System.out.println("nazywam się: " + imie + " " + nazwisko);
